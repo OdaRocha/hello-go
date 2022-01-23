@@ -1,0 +1,10 @@
+09/01/2022 15:44:49 - https://random-status-code.herokuapp.com/ - online: true
+09/01/2022 15:44:50 - https://www.alura.com.br - online: true
+09/01/2022 15:44:50 - https://www.caelum.com.br - online: true
+09/01/2022 15:44:51 - https://www.casadocodigo.com.br - online: true
+09/01/2022 15:44:51 - https://www.youtube.com.br - online: true
+09/01/2022 15:45:08 - https://random-status-code.herokuapp.com/ - online: true
+09/01/2022 15:45:08 - https://www.alura.com.br - online: true
+09/01/2022 15:45:09 - https://www.caelum.com.br - online: true
+09/01/2022 15:45:09 - https://www.casadocodigo.com.br - online: true
+09/01/2022 15:45:09 - https://www.youtube.com.br - online: true
